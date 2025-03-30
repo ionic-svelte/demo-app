@@ -6,7 +6,7 @@
 
 	import Menu from '$lib/components/Menu.svelte';
 
-	import { setupIonicBase } from 'ionic-svelte';
+	import { setupIonicBase } from '@ionic-svelte/core';
 
 	/* Theme variables */
 	import '../theme/variables.css';
